@@ -9,7 +9,7 @@
                 <div class="card-body p-4">
                     <div class="text-center mb-4">
                         <img src="{{ asset('images/logo.png') }}" alt="Logo" height="70">
-                        <h4 class="mt-3">Login Admin</h4>
+                        <h4 class="mt-3">Login</h4>
                     </div>
 
                     @if($errors->any())
